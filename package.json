@@ -1,0 +1,16 @@
+{
+  "name": "prueba-storage",
+  "version": "1.0.0",
+  "description": "Prueba para almacenar archivos con openstack swift a bluemix desde node.js",
+  "main": "src/web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Enrique Vargas sergioenrique@me.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pkgcloud": "^1.4.0",
+    "swig": "^1.4.2"
+  }
+}

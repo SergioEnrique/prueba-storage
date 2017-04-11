@@ -1,0 +1,10 @@
+{
+  "verbose": true,
+  "ignore": [
+    "public/bower_components/**"
+  ],
+  "execMap": {
+    "js": "node --harmony"
+  },
+  "ext": "js json html css"
+}
